@@ -6,8 +6,8 @@
 * Felipe Chaves Delgadillo
 
 <p align="center">
-    <img src=images/DiagramaDeFlujoGeneral.png alt="Diagrama De Flujo General " width="500">
+    <img src=images/DiagramaDeFlujoGeneral.png alt="Diagrama De Flujo General " width="250">
 </p>
 <p align="center">
-    <img src=images/DiagramaDeFlujoFunciones.png alt="Diagrama De Flujo Funciones" width="700">
+    <img src=images/DiagramaDeFlujoFunciones.png alt="Diagrama De Flujo Funciones" width="1200">
 </p>
