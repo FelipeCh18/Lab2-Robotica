@@ -13,7 +13,20 @@
 </p>
 
 ## Trayectorias 
-PONER FOTOS AQUÍ
+Paletizado Externo
+<p align="center">
+    <img src=images/Paletizado_externo.png alt="Paletizado Externo " width="250">
+</p>
+
+Paletizado en S
+<p align="center">
+    <img src=images/Paletizado_s.png alt="Paletizado en S " width="250">
+</p>
+
+Paletizado en Z
+<p align="center">
+    <img src=images/Paletizado_z.png alt="Paletizado en Z " width="250">
+</p>
 
 ## Videos Demostrativos
 A continuación se añaden los vídeos de los resultados obtenidos del laboratorio:
