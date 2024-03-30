@@ -20,8 +20,9 @@ A continuación se añaden los vídeos de los resultados obtenidos del laborator
 
 Vídeo de la ejecución en EPSON RC+ 7.0:
 
-[VÍDEO DE LA EJECUCIÓN EN EPSON RC+ 7.0](PONER LINK DE DRIVE)
+[VÍDEO DE LA EJECUCIÓN EN EPSON RC+ 7.0](PONER LINK DE DRIVE) <url>https://drive.google.com/drive/folders/16ONF3JqlUhxU9FzaknRo4nXTZ7jvJ7LK?usp=sharing</url>
 
 Vídeo de la demostración en vivo del funcionamiento:
 
-[VÍDEO DE LA EJECUCIÓN]<url>https://drive.google.com/drive/folders/1lr2AhREz9yGd2liMuURUi9P7plOJVTkf?usp=sharing</url>
+[VÍDEO DE LA EJECUCIÓN] <url>https://drive.google.com/drive/folders/1lr2AhREz9yGd2liMuURUi9P7plOJVTkf?usp=sharing</url>
+
