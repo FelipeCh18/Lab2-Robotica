@@ -5,6 +5,10 @@
 * Marco Antonio Quimbay Dueñas
 * Felipe Chaves Delgadillo
 
+Para el desarrollo de la práctica, se establecieron las distintas trayectorias siguiendo la guía proporcionada por la empresa "Control de movimiento" y se siguieron las distintas instrucciones ofrecidas en las instalaciones el día de la práctica.
+
+El programa realizado para el seguimiento de las trayectorias sigue la lógica de los siguientes diagramas de flujo:
+
 <p align="center">
     <img src=images/DiagramaDeFlujoGeneral.png alt="Diagrama De Flujo General " width="250">
 </p>
