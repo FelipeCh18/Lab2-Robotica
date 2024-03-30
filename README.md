@@ -15,12 +15,12 @@
 ## Trayectorias 
 Paletizado Externo
 <p align="center">
-    <img src=images/Paletizado_externo.png alt="Paletizado Externo " width="250">
+    <img src=images/paletizado_externo.png alt="Paletizado Externo " width="250">
 </p>
 
 Paletizado en S
 <p align="center">
-    <img src=images/Paletizado_s.png alt="Paletizado en S " width="250">
+    <img src=images/paletizado_s.png alt="Paletizado en S " width="250">
 </p>
 
 Paletizado en Z
