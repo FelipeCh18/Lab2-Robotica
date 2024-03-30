@@ -13,19 +13,19 @@
 </p>
 
 ## Trayectorias 
-Paletizado Externo
+Paletizado en z
 <p align="center">
-    <img src=images/paletizado_externo.png alt="Paletizado Externo " width="750">
+    <img src=images/paletizado_externo.png alt="Paletizado z " width="450">
 </p>
 
 Paletizado en S
 <p align="center">
-    <img src=images/paletizado_s.png alt="Paletizado en S " width="750">
+    <img src=images/paletizado_s.png alt="Paletizado en S " width="450">
 </p>
 
-Paletizado en Z
+Paletizado Externo
 <p align="center">
-    <img src=images/Paletizado_z.png alt="Paletizado en Z " width="750">
+    <img src=images/Paletizado_z.png alt="Paletizado Externo " width="450">
 </p>
 
 ## Videos Demostrativos
